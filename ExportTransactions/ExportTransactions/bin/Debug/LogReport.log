@@ -1,0 +1,121 @@
+DEBUG 2017-12-28 16:10:57,390 11491ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+DEBUG 2017-12-28 16:36:22,151  1539ms Module1                Main               - write
+DEBUG 2017-12-28 17:28:50,760 18880ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Could not find a part of the path 'D:\Projects\TrakEngineering\ExportTransactions\ExportTransactions\bin\Debug\~\ExportTransaction.txt'.
+DEBUG 2017-12-28 17:29:28,034  4985ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Could not find a part of the path 'D:\Projects\TrakEngineering\ExportTransactions\ExportTransactions\bin\Debug\~\ExportTransaction.txt'.
+ERROR 2018-01-05 12:49:00,548 24690ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+ERROR 2018-01-05 12:49:41,931 14557ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+DEBUG 2018-01-05 14:09:18,591 38555ms Module1                SendEmail          - Transaction file sent to vaspsolutions.test@gmail.com
+ERROR 2018-03-22 17:46:25,185 54823ms Module1                CreateFile         - Data not found to CompanyId : 2, ExportOption : 2, executionDate: 3/22/2018 2:10:00 PM
+ERROR 2018-03-22 17:50:48,396 202696ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Could not find a part of the path 'D:\rahul\ExportTransactions\ExportTransactions\ExportTransaction.txt'.
+ERROR 2018-03-22 17:52:25,676 38577ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+ERROR 2018-03-22 17:52:33,063 45964ms Module1                SendFileToFTP      - Exception occurred in SendFileToFTP to FtpServerPath : test. ex is :Invalid URI: The format of the URI could not be determined.
+ERROR 2018-03-22 17:57:09,834 10184ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+ERROR 2018-03-22 17:57:13,722 14072ms Module1                SendFileToFTP      - Exception occurred in SendFileToFTP to FtpServerPath : test. ex is :Invalid URI: The format of the URI could not be determined.
+ERROR 2018-03-22 18:24:17,422 26673ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+ERROR 2018-03-22 18:24:18,044 27295ms Module1                SendFileToFTP      - Exception occurred in SendFileToFTP to FtpServerPath : test. ex is :Invalid URI: The format of the URI could not be determined.
+ERROR 2018-06-06 16:28:43,031 134351ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : ashwini_kad@vaspsolutions.com. ex is :The process cannot access the file 'D:\Projects\TrakEngineering\ExportTransactions\ExportTransactions\bin\Debug\TransactionDetails_20180606.xlsx' because it is being used by another process.
+ERROR 2018-06-06 17:20:40,635 67923ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+ERROR 2018-06-06 17:20:40,764 68052ms Module1                SendFileToFTP      - Exception occurred in SendFileToFTP to FtpServerPath : ftp.vaspsolutions.com. ex is :Invalid URI: The format of the URI could not be determined.
+ERROR 2018-06-06 17:30:09,223 27631ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+ERROR 2018-06-06 17:30:09,260 27668ms Module1                SendFileToFTP      - Exception occurred in SendFileToFTP to FtpServerPath : ftp.vaspsolutions.com. ex is :Invalid URI: The format of the URI could not be determined.
+ERROR 2018-06-06 17:30:39,576 18744ms Module1                CreateFile         - Exception occurred in CreateFile to CompanyId : 1045, ExportOption : 4, OffSetValue: 330. ex is :The process cannot access the file 'D:\Projects\TrakEngineering\ExportTransactions\ExportTransactions\bin\Debug\TransactionDetails_20180606.xlsx' because it is being used by another process.
+ERROR 2018-06-06 17:30:39,630 18798ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :The process cannot access the file 'D:\Projects\TrakEngineering\ExportTransactions\ExportTransactions\bin\Debug\TransactionDetails_20180606.xlsx' because it is being used by another process.
+ERROR 2018-06-06 17:30:39,645 18813ms Module1                SendFileToFTP      - Exception occurred in SendFileToFTP to FtpServerPath : ftp.vaspsolutions.com. ex is :Invalid URI: The format of the URI could not be determined.
+ERROR 2018-06-06 17:32:44,307 12792ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+ERROR 2018-06-06 17:32:44,564 13049ms Module1                SendFileToFTP      - Exception occurred in SendFileToFTP to FtpServerPath : ftp.vaspsolutions.com. ex is :Invalid URI: The format of the URI could not be determined.
+ERROR 2018-06-06 17:36:30,368 61915ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+ERROR 2018-06-06 17:36:30,442 61989ms Module1                SendFileToFTP      - Exception occurred in SendFileToFTP to FtpServerPath : ftp.vaspsolutions.com. ex is :Invalid URI: The format of the URI could not be determined.
+ERROR 2018-06-06 17:37:47,051 73225ms Module1                CreateFile         - Data not found to CompanyId : 1045, ExportOption : 1, executionDate: 6/6/2018 4:00:00 PM
+ERROR 2018-06-06 17:38:50,585 136759ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+ERROR 2018-06-06 17:46:09,397 61606ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+INFO  2018-06-12 16:23:13,973 13708ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 16:24:02,688  1143ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 16:24:15,842 14296ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 16:24:24,811   146ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 16:24:24,984   319ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 16:29:30,913   136ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 16:29:50,272 19495ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 16:30:16,794   115ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-12 16:35:21,911 305232ms Module1                CreateFile         - Data not found to CompanyId : 23, ExportOption : 2, executionDate: 6/12/2018 4:00:00 PM
+INFO  2018-06-12 16:35:21,943 305264ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 16:45:52,446   145ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-12 16:46:12,767 20466ms Module1                CreateFile         - Data not found to CompanyId : 23, ExportOption : 2, executionDate: 6/12/2018 4:00:00 PM
+INFO  2018-06-12 16:46:12,782 20481ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 16:48:00,575   214ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-12 17:13:23,682 1523320ms Module1                CreateFile         - Exception occurred in CreateFile to CompanyId : 23, ExportOption : 2, OffSetValue: 330. ex is :Cannot perform '<>' operation on System.String and System.Int32.
+INFO  2018-06-12 17:13:25,127 1524765ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 17:13:33,626   165ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-12 17:14:03,788 30326ms Module1                CreateFile         - Exception occurred in CreateFile to CompanyId : 23, ExportOption : 2, OffSetValue: 330. ex is :Cannot interpret token '!' at position 10.
+INFO  2018-06-12 17:14:07,254 33792ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 17:15:32,783   176ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 17:18:28,254   193ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 17:20:16,596   162ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 17:20:38,256   171ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 17:20:50,731   143ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 17:22:21,754   146ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-12 17:22:27,257  5648ms Module1                CreateFile         - Exception occurred in CreateFile to CompanyId : 23, ExportOption : 2, OffSetValue: 330. ex is :Cannot perform '=' operation on System.String and System.Int32.
+INFO  2018-06-12 17:22:29,802  8193ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 17:22:47,483   124ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 17:23:23,817   167ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 17:24:11,106   152ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 17:24:44,353   139ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 17:25:15,172   144ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 17:26:03,037   131ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-12 17:26:58,578 55672ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+INFO  2018-06-12 17:27:01,341 58435ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 17:29:41,620   147ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 17:29:41,790   317ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 17:29:50,305   128ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 17:29:50,466   289ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 17:31:07,767   146ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-12 17:31:26,793 19171ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+INFO  2018-06-12 17:31:29,828 22206ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 17:31:56,559   156ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-12 17:31:56,778   375ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 17:32:12,088   149ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-12 17:32:20,184  8244ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+INFO  2018-06-12 17:32:22,629 10689ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 17:32:48,606   148ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-12 17:33:05,485 17026ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+INFO  2018-06-12 17:33:08,318 19860ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 17:33:24,863   155ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-12 17:35:51,169 146460ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+INFO  2018-06-12 17:35:53,605 148896ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 17:36:13,355   155ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-12 17:36:45,397 32196ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+INFO  2018-06-12 17:36:47,809 34608ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-12 17:37:52,408   184ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-12 17:37:57,303  5079ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Server does not support secure connections.
+INFO  2018-06-12 17:37:59,890  7666ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-29 09:23:49,220   484ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-29 09:26:44,270 175534ms Module1                SendEmail          - Exception occurred in SendEmail to EmailId : vaspsolutions.test@gmail.com. ex is :Could not find a part of the path 'D:\Soham_Work\ExportTransactions\ExportTransactions\ExportTransaction.txt'.
+INFO  2018-06-29 09:31:43,097   392ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-06-29 09:34:19,095   292ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-29 09:34:27,564  8761ms ExportBAL              eckTransReportSend - Error occurred in GetALLAutoTransactionExportSettings Exception is :SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+INFO  2018-06-29 09:34:27,567  8764ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-06-29 09:34:31,875   329ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-29 09:34:38,555  7009ms ExportBAL              eckTransReportSend - Error occurred in GetALLAutoTransactionExportSettings Exception is :SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+INFO  2018-06-29 09:38:22,075   307ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-06-29 09:38:28,360  6592ms ExportBAL              eckTransReportSend - Error occurred in GetALLAutoTransactionExportSettings Exception is :SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+INFO  2018-07-03 14:53:59,860   398ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-07-03 14:54:00,102   640ms ExportBAL              tionExportSettings - Error occurred in GetALLAutoTransactionExportSettings Exception is :Cannot open database "FluidSecure" requested by the login. The login failed.
+Login failed for user 'sa'.
+INFO  2018-07-03 14:54:00,105   643ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-07-03 14:54:14,810   428ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-07-03 14:54:15,067   685ms ExportBAL              tionExportSettings - Error occurred in GetALLAutoTransactionExportSettings Exception is :Cannot open database "FluidSecure" requested by the login. The login failed.
+Login failed for user 'sa'.
+INFO  2018-07-03 14:55:05,692   358ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-07-03 14:58:55,883   291ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-07-09 16:01:43,804   353ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-07-09 16:01:45,161  1710ms ExportBAL              tionExportSettings - Error occurred in GetALLAutoTransactionExportSettings Exception is :Login failed for user 'sa'.
+INFO  2018-07-09 16:01:45,171  1720ms Module1                GetDataAndSendFile - Execution Ended
+INFO  2018-07-09 16:01:49,534   299ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-07-09 16:01:51,439  2204ms ExportBAL              tionExportSettings - Error occurred in GetALLAutoTransactionExportSettings Exception is :Login failed for user 'sa'.
+INFO  2018-07-09 16:02:13,800   226ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-07-09 16:03:29,967   299ms Module1                GetDataAndSendFile - Execution started
+ERROR 2018-07-09 16:04:56,552 86884ms Module1                CreateFile         - Exception occurred in CreateFile to CompanyId : 1065, ExportOption : 2, OffSetValue: 330. ex is :Column 'Person Name' does not belong to underlying table 'Table'.
+INFO  2018-07-13 11:15:23,220   314ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-07-13 11:25:10,214   307ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-07-13 12:09:46,454   280ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-07-13 12:57:13,282   279ms Module1                GetDataAndSendFile - Execution started
+INFO  2018-07-13 14:53:19,896  1724ms Module1                GetDataAndSendFile - Execution started

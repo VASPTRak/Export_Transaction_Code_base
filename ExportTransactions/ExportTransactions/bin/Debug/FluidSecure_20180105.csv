@@ -1,0 +1,5 @@
+ReportDate,Date,Time,Timezone,Vehicle Number,Vehicle Name,Guest Vehicle Number,Current Miles,Previous Miles,Miles Driven,Hours,Quantity,FluidSecure Links,Product,Person,Company,Transaction #,Current Latitude,Current Longitude,Entered Department Number,Entered Person Pin,Entered Other,Pre-Auth Transaction,Pulses,Transaction Cost,
+2018-01-04,04-Jan-2018,11:33 AM,PST (UTC -8),Veh_2706_1,Veh_2706_1,Veh_2706_1,100,0,100,,9.00,TRAK_FS_DIES,Unleaded,Dept_2707 F M--514-741-7906,vaspsumedh,889,,,6,147896444,,No,0,0.000,
+2018-01-04,04-Jan-2018,11:29 AM,IST (UTC +5:30),Veh_2706_2,Veh_2706_2,Veh_2706_2,11,250,-239,,9.00,FluidPipe,New Product,Sumedh--945-464-5424,vaspsumedh,886,,,6,11,,No,0,0.000,
+2018-01-04,04-Jan-2018,11:37 AM,UZT (UTC +5),Veh3005_9,Veh30905,Veh3005_9,1000,0,1000,,9.00,test_1_2_3,New Product,Dept_2707 F M--514-741-7905,vaspsumedh,892,,,6,0002,,No,0,0.000,
+

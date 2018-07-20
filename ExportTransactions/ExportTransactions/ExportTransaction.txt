@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html>
+<head>    
+</head>
+<body>
+    Hi <b>emailId</b>,<br /><br />
+
+	Please find the attachment for transactions.
+    <br />
+    <br />
+
+    Thanks & Regards,<br />
+    FluidSecure
+
+</body>
+</html>
